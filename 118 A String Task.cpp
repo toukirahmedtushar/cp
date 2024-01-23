@@ -1,4 +1,4 @@
-
+// codeforces 118A
 #include<iostream>
 using namespace std;
 int main(){
