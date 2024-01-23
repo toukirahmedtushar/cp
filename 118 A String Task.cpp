@@ -1,4 +1,4 @@
-//118 A 'String task'codeforce
+
 #include<iostream>
 using namespace std;
 int main(){
